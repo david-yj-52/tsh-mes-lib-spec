@@ -40,6 +40,12 @@ public class CarrMoveCompIvo extends ApMessage {
 		@NotNull(message = "필수값 누락")
 		private String jobId;
 
+		@NotNull(message = "필수값 누락")
+		private String eqpId;
+		
+		@NotNull(message = "필수값 누락")
+		private String portId;
+
 	}
 
 }
