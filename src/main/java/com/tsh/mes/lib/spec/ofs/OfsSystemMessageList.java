@@ -26,7 +26,7 @@ public enum OfsSystemMessageList {
 
 	/*RMS*/
 	RCP_CNFM_REP,
-	
+
 	/*MRS*/
 	LOT_TRACK_IN_PREP_REP,
 	LOT_TRACK_IN_REP,
